@@ -1,2 +1,2 @@
 # brain_fus
-This is the code for fUS on clinical use.
+This is a code for fUS on clinical use.
